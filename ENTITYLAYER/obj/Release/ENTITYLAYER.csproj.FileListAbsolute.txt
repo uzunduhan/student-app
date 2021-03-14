@@ -1,0 +1,6 @@
+C:\Users\DUHAN\source\repos\UDEMY_UYGULAMASI\ENTITYLAYER\bin\Release\ENTITYLAYER.dll
+C:\Users\DUHAN\source\repos\UDEMY_UYGULAMASI\ENTITYLAYER\bin\Release\ENTITYLAYER.pdb
+C:\Users\DUHAN\source\repos\UDEMY_UYGULAMASI\ENTITYLAYER\obj\Release\ENTITYLAYER.csprojAssemblyReference.cache
+C:\Users\DUHAN\source\repos\UDEMY_UYGULAMASI\ENTITYLAYER\obj\Release\ENTITYLAYER.csproj.CoreCompileInputs.cache
+C:\Users\DUHAN\source\repos\UDEMY_UYGULAMASI\ENTITYLAYER\obj\Release\ENTITYLAYER.dll
+C:\Users\DUHAN\source\repos\UDEMY_UYGULAMASI\ENTITYLAYER\obj\Release\ENTITYLAYER.pdb

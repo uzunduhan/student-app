@@ -1,0 +1,2 @@
+C:\Users\DUHAN\source\repos\UDEMY_UYGULAMASI\BUSINESSLOGICLAYER\obj\Release\BUSINESSLOGICLAYER.csprojAssemblyReference.cache
+C:\Users\DUHAN\source\repos\UDEMY_UYGULAMASI\BUSINESSLOGICLAYER\obj\Release\BUSINESSLOGICLAYER.csproj.CoreCompileInputs.cache

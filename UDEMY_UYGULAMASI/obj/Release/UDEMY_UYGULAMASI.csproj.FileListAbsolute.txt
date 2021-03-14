@@ -1,0 +1,5 @@
+C:\Users\DUHAN\source\repos\UDEMY_UYGULAMASI\UDEMY_UYGULAMASI\obj\Release\UDEMY_UYGULAMASI.csprojAssemblyReference.cache
+C:\Users\DUHAN\source\repos\UDEMY_UYGULAMASI\UDEMY_UYGULAMASI\obj\Release\UDEMY_UYGULAMASI.Form1.resources
+C:\Users\DUHAN\source\repos\UDEMY_UYGULAMASI\UDEMY_UYGULAMASI\obj\Release\UDEMY_UYGULAMASI.Properties.Resources.resources
+C:\Users\DUHAN\source\repos\UDEMY_UYGULAMASI\UDEMY_UYGULAMASI\obj\Release\UDEMY_UYGULAMASI.csproj.GenerateResource.cache
+C:\Users\DUHAN\source\repos\UDEMY_UYGULAMASI\UDEMY_UYGULAMASI\obj\Release\UDEMY_UYGULAMASI.csproj.CoreCompileInputs.cache
