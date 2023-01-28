@@ -1,1 +1,2 @@
-In the application developed using c# form, a student automation system was developed
+In the application developed using c# form, layered architecture was used. The application is a student automation system.
+
